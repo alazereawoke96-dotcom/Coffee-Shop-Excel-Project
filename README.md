@@ -1,6 +1,11 @@
 # Coffee-Shop-Excel-Project
 I am excited to share my project: Coffee Shop Sales Analysis using MS Excel. ☕
 
+
+Excel Project Dashboard
+<img width="956" height="509" alt="e3" src="https://github.com/user-attachments/assets/b1f58ced-8056-400c-9dac-c998a7caa455" />
+
+
 🔍 Objective: Uncover key sales trends, optimize inventory, and identify top-performing products.
 💡 Key Insight: Seasonal trends significantly impact coffee sales, leading to actionable recommendations for better inventory management.
 
