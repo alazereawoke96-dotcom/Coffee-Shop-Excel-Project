@@ -7,6 +7,7 @@ Excel Project Dashboard
 
 
 🔍 Objective: Uncover key sales trends, optimize inventory, and identify top-performing products.
+
 💡 Key Insight: Seasonal trends significantly impact coffee sales, leading to actionable recommendations for better inventory management.
 
 🛠 Tools & Techniques: Leveraged advanced Excel features like pivot tables, data visualization, and trend analysis.
