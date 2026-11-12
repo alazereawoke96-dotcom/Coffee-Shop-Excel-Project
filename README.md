@@ -3,7 +3,7 @@ I am excited to share my project: Coffee Shop Sales Analysis using MS Excel. ☕
 
 
 Excel Project Dashboard
-<img width="956" height="509" alt="e3" src="https://github.com/user-attachments/assets/b1f58ced-8056-400c-9dac-c998a7caa455" />
+<img width="935" height="478" alt="coffee" src="https://github.com/user-attachments/assets/c8f2fc9a-92b9-44a7-81ed-90a55adf46f7" />
 
 
 🔍 Objective: Uncover key sales trends, optimize inventory, and identify top-performing products.
